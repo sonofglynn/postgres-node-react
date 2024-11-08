@@ -5,4 +5,4 @@ I used this project to improve my knowledge of back-end development, and as a pr
 
 This project represents a milestone I am very proud of.
 
-![User Table Screenshot](/user-table-screenshot.png)
+![User Table Screenshot](/user-table-screenshot.png | width=100)
