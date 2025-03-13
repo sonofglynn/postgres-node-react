@@ -1,8 +1,10 @@
 # User Table System
-This User Table System is a <ins>**full stack**</ins> website with minimal CRUD functionality. It links <ins>**React**</ins> on the front end with <ins>**Node.js/Express**</ins> and <ins>**PostgreSQL**</ins> on the back end.
+This User Table System is a <ins>**full stack**</ins> website with minimal CRUD functionality, deployed on an AWS EC2 instance. It links <ins>**React**</ins> on the front end with <ins>**Node.js/Express**</ins> and <ins>**PostgreSQL**</ins> on the back end.
 
-I used this project to improve my knowledge of back-end development and as a proof of concept for future development. It has not been deployed, but it is fully functional on my local computer *(see screenshot below)*.
+# Link: 
+This IP address with lead you to the deployed version on an EC2 instance: [http://52.15.236.96:3000/](http://52.15.236.96:3000/).
+Feel free to add and delete entries, but keep it clean, as I have not implemented a login system yet.
 
-This project represents a full stack milestone I am very proud of.
+I used this project to improve my knowledge of back-end programming and as a proof of concept for future development. This project represents a full stack milestone I am very proud of.
 
-![User Table Screenshot](/user-table-screenshot.png)
+<!-- ![User Table Screenshot](/user-table-screenshot.png) -->
